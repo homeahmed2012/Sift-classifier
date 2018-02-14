@@ -11,8 +11,9 @@
 ## usage 
 
 1. open cmd or terminal in the project folder
-2. run `python3 sift.py'
+2. run `python3 sift.py`
 3. wait until the program tell you to enter the name of the test image
 4. enter the name of any image form the test folder ex: ardper.20.jpg
 5. the program will classify the image and print the name of the person
-6. 
+
+## Directed by: Dr. Mohamed Ezz
